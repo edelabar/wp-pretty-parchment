@@ -7,11 +7,17 @@ Licensed under the [GPL](http://www.opensource.org/licenses/gpl-license.php) (ve
 ## Original metadata (from style.css)
 
 Theme Name: Pretty Parchment
+
 Theme URI: http://itscalledwebdesign.com/theme/parchment/
+
 Description: Parchment on parchment with flower accents.  
+
 Version: 0.95
+
 Author: Lloyd Armbrust
+
 Author URI: http://lloydmedia.com/
+
 Tags: custom-header, fixed-width, two-columns, blue
 
 	Crafty
