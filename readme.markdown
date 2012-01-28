@@ -1,4 +1,4 @@
-# Backup of my personal changes to the Pretty Parchment Wordpress theme
+# Backup of changes to the Pretty Parchment Wordpress theme
 
 Currently in use on my amazing wife's [blog](http://karendelabar.com/).
 
